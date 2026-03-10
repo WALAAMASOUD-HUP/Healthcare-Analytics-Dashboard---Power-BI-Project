@@ -12,7 +12,9 @@ The dashboard summarizes key healthcare financial metrics, including:
 •	Room Charges
 It also allows users to explore billing data using multiple interactive views.
 ![Image](https://github.com/user-attachments/assets/8709cd0f-4327-4586-a515-30b1e2e5cdeb)
+Online Interactive Dashboard : 
 
+https://app.powerbi.com/view?r=eyJrIjoiNGEzZWI0NmMtZDA3OS00NGZhLTliOTktZGI0ODU0Y2FiMTdhIiwidCI6ImUxOWY2ZjQyLTJhODQtNDhlZS04N2Y2LTUzNjQ5YzdhMzNhYSIsImMiOjl9
 
 ________________________________________
 📊 Dashboard Features
@@ -26,7 +28,10 @@ Breakdown of billing contributions from departments including:
 Cardiology, Orthopedics, General Surgery, Neurology, and Pediatrics.
 4. Billing by Medical Condition (Type)
 Displays total billing amounts by condition such as Hypertension, Asthma, Migraine, etc.
-https://github.com/user-attachments/assets/c5e4ab47-f1f8-4655-b9b9-541f42a10dfa
+
+
+
+https://github.com/user-attachments/assets/9eb634f2-4b6b-4fd1-9d2c-45f4d60a2182
 ________________________________________
 🛠️ Tools & Techniques Used
 •	Microsoft Excel
